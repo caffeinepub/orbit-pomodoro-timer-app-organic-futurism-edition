@@ -1,0 +1,11 @@
+{
+  "frontend/src/App.tsx": "Main application component with Organic Futurism design featuring breathing animation, film grain overlay, liquid wave timer, contentEditable task name, brown noise toggle, and smooth background transitions between timer modes using CSS animations.",
+  "frontend/src/components/TimerCircle.tsx": "Circular SVG timer component with animated progress ring, displaying time in MM:SS format and handling start/pause interactions with mode-specific colors and glow effects using CSS transitions.",
+  "frontend/src/components/TaskPill.tsx": "Floating pill button displaying the current task name with edit icon, triggering the task modal when clicked with smooth CSS animations.",
+  "frontend/src/components/TaskModal.tsx": "Modal dialog with backdrop blur for editing the current task name, featuring smooth CSS animations and keyboard support (Enter to save, Escape to close).",
+  "frontend/src/components/ModeToggle.tsx": "Animated toggle switch for manually switching between Focus and Break modes with a sliding background indicator using CSS transitions.",
+  "frontend/src/hooks/useQueries.ts": "Minimal placeholder file as task list functionality has been removed; current task management is handled locally in the frontend.",
+  "frontend/src/index.css": "Global styles with Nunito font, OKLCH color system, film grain overlay with SVG noise texture, breathing animation keyframes, pulse glow animation, and smooth transition animations for the Organic Futurism aesthetic.",
+  "frontend/src/components/TaskList.tsx": "Scrollable task list component with glassmorphic styling that displays all tasks, allows adding new tasks via input field, and removing tasks with inline delete buttons and loading states.",
+  "frontend/src/components/LiquidWaveTimer.tsx": "Liquid-style SVG timer component with animated wave effects using React state and CSS transitions, displaying time in MM:SS format with gradient themes (orange-fuchsia for Focus, cyan-green for Break, gold for Flow) and wave animation that freezes when paused."
+}

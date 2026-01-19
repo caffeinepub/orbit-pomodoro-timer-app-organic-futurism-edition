@@ -1,2 +1,8 @@
-# orbit-pomodoro-timer-app-organic-futurism-edition
-Exported from Caffeine project: Orbit Pomodoro Timer App   Organic Futurism Edition
+## Orbit Pomodoro Timer App   Organic Futurism Edition
+
+To run app build and run docker image:
+
+```
+docker build -t app .
+docker run -it --network host app
+```
